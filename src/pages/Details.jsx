@@ -28,7 +28,7 @@ function Details(props) {
         </button>
         <div className="">{findId.id + 1}</div>
         <div className="">{findId.title}</div>
-        <img src={`/img/${findId.img}`} alt="" />
+        <img src={`/public/img/${findId.img}`} alt="" />
       </div>
     </>
   );

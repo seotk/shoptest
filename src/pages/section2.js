@@ -41,7 +41,7 @@ function Card(props) {
   return (
     <>
       <div className="productCon">
-        <img src={`/img/${dataList.img}`} alt={dataList.title}></img>
+        <img src={`/public/img/${dataList.img}`} alt={dataList.title}></img>
       </div>
       <div class="dec">
         <p>{dataList.id + 1}</p>

@@ -18,7 +18,7 @@ function App() {
     <div className="App">
       <header className="AppHeader mw">
         <Link to="/" className="logo">
-          <img src="/img/logo.svg" />
+          <img src="/public/img/logo.svg" />
         </Link>
         <nav className="gnb">
           <Link to="/sec2">Каталог</Link>
@@ -59,10 +59,10 @@ function App() {
           <a href="#">FAQ</a>
         </div>
         <div>
-          <img src="/img/sns01.png"></img>
-          <img src="/img/sns02.png"></img>
-          <img src="/img/sns03.png"></img>
-          <img src="/img/sns04.png"></img>
+          <img src="/public/img/sns01.png"></img>
+          <img src="/public/img/sns02.png"></img>
+          <img src="/public/img/sns03.png"></img>
+          <img src="/public/img/sns04.png"></img>
         </div>
       </footer>
     </div>

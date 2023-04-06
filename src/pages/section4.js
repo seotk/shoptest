@@ -4,20 +4,20 @@ function Section4() {
       <section className="sec4">
         <div>
           <p>
-            <img src="/img/sec4_icon1.png" />
+            <img src="/public/img/sec4_icon1.png" />
           </p>
           <p>Безопасно</p>
         </div>
         <div>
           <p>
-            <img src="/img/sec4_icon2.png" />
+            <img src="/public/img/sec4_icon2.png" />
           </p>
 
           <p>Доступная цена</p>
         </div>
         <div>
           <p>
-            <img src="/img/sec4_icon3.png" />
+            <img src="/public/img/sec4_icon3.png" />
           </p>
 
           <p>Быстрая доставка</p>
